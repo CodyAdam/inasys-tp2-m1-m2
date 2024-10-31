@@ -143,6 +143,7 @@ python main.py
 ```
 
 Result animation:
+
 ![Heart Rate Model Animation](TP2/engine001/data/animation.gif)
 
 This will create an animation.gif file in the data directory showing the wave function evolving over time, representing the patient's heart rate model.
