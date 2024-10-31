@@ -1,14 +1,15 @@
-# Writeup: TP N°2 : Introduction à la programmation en langage Python
+# Writeup: M1-M2 INASYS - TP N°2 
 
-Université de Franche-Comté
-M1-M2 INASYS
+> Original repo: https://github.com/EDJINEDJA/TP2
 
-UFR-ST
-Python 2024-2025
+Institution: **Université de Franche-Comté**
+Program: **M1-M2 INASYS**
+Department: **UFR-ST**
+Course: **Python**
+Year: **2024-2025**
+Subject: **Introduction to Python Programming**
 
----
-
-# Explanations:
+# My solutions:
 
 - [Exercice 1](exo1.md)
 - [Exercice 2](exo2.md)
