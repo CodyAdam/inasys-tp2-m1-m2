@@ -185,7 +185,3 @@ Surgical assistance robots help teams by preparing instruments (`preparerInstrum
 Cleaning robots maintain hospital cleanliness with methods like:
 - `nettoyerZone(zone:str)`
 - `decontaminer()`
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/36218993/5554791d-2d0b-4e9b-b3d4-e423d1742129/TP_Python_M1_M2_INASYS-ndeg-2.pdf
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/36218993/5554791d-2d0b-4e9b-b3d4-e423d1742129/TP_Python_M1_M2_INASYS-ndeg-2.pdf
